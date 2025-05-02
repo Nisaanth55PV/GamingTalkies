@@ -2,10 +2,10 @@
   "name": "cinematalkies",
   "version": "1.0.0",
   "description": "A real time chat app for  gangs or 18+",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js",
+    "start": "node index",
 
     "dev": "nodemon server"
   },
